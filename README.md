@@ -1,2 +1,2 @@
 # Data_Science
-Data Science repository for some codes and analysis
+Data Science repository for codes and analysis with conclusion and decision.
